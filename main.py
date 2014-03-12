@@ -10,8 +10,6 @@ GET_RESTARUNTS = "http://www.just-eat.co.uk/area/nr1-norwich/"
 
 
 
-
-
 def filter_styles(styles):
     ## Filter based on choices
     ## Filter based on rating
